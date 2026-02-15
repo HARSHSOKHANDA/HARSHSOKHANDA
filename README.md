@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **harshsokhanda54@gmail.com** For Collaboration/Project or 
 - 👯 **I’m looking to collaborate on:** Open-source MERN/Next.js projects and real-world SaaS applications  
 - 🤔 **I’m looking for help with:** Best practices for scaling backend applications and DevOps workflows  
 - 💬 **Ask me about:** MERN Stack, Next.js, TypeScript, TailwindCSS, API Development  
-- 📫 **How to reach me:** harshsokhanda.kr@gmail.com  
+- 📫 **How to reach me:** harshsokhanda54@gmail.com  
 - 😄 **Pronouns:** harsh sokhanda 
 - ⚡ **Fun fact:** I turn ☕ coffee into clean code and love exploring new tech stacks 🚀
 
@@ -30,14 +30,17 @@ Email Me 👉 ✉️ **harshsokhanda54@gmail.com** For Collaboration/Project or 
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harshsokhanda09&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Harshsokhanda09&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Harshsokhanda&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Harshsokhanda&theme=default&hide_border=false)<br/>
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harshsokhanda09&limit=5&theme=default&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=HARSHSOKHANDA&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Harshsokhanda09&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=HARSHSOKHANDA&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
